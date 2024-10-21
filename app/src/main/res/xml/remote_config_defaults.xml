@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap xmlns:android="http://schemas.android.com/apk/res/android">
+    <entry>
+        <key>dark_mode_enabled</key>
+        <value>true</value><!-- Значення за замовчуванням для світлої теми -->
+    </entry>
+    <entry>
+        <key>welcome_message</key>
+        <value>Welcome to our app!</value> <!-- Конфігурація 2 -->
+    </entry>
+    <entry>
+        <key>feature_enabled</key>
+        <value>true</value>
+        <value>false</value><!-- Конфігурація 3 -->
+    </entry>
+    <entry>
+        <key>button_visibility</key>
+        <value>true</value>
+        <value>false</value><!-- Конфігурація 4, може змінювати видимість кнопки -->
+    </entry>
+    <entry>
+        <key>custom_color</key>
+        <value>#FF5733</value> <!-- Конфігурація 5, змінює колір теми -->
+    </entry>
+</defaultsMap>
